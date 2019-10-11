@@ -1,0 +1,9 @@
+[[GLEW]]
+arch = "x86_64"
+git-tree-sha1 = "b35aba4a444d4e55d54fc1254156f2731b1db299"
+libc = "glibc"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "52b5fa4106d99a9a5a78a689bf4ce1661a6f13b6e7b072afbe76b315467568e0"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+0/GLEW.v2.1.0.x86_64-linux-gnu.tar.gz"
