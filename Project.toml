@@ -1,6 +1,6 @@
 name = "GLEW_jll"
 uuid = "bde7f898-03f7-559e-8810-194d950ce600"
-version = "2.1.0+0"
+version = "2.1.0+1"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"
